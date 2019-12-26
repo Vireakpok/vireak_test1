@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input_Valid_Email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>15521b8b-c086-4f6e-901a-772d08520987</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>605db076-66c3-4cc7-b952-395e34fb8ed8</id>
+      <masked>false</masked>
+      <name>testid</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ada97d91-5a09-487b-ab0a-eb785af0b3f3</id>
+      <masked>false</masked>
+      <name>teststatus</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d73812a1-71fb-4e04-9fdd-3c39a46daabb</id>
+      <masked>false</masked>
+      <name>testlabname</name>
+   </variable>
+</TestCaseEntity>

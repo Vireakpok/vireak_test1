@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Click_Ok_Button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c447d05e-d62c-4da2-9c7c-40950563eb8c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2f03b879-f16d-4ada-8f55-d1e595a19466</id>
+      <masked>false</masked>
+      <name>testid</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d6487a2a-e598-4682-89b8-72a8428fde0d</id>
+      <masked>false</masked>
+      <name>teststatus</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f9412185-e5c2-460e-bc6e-3b67b4599ae4</id>
+      <masked>false</masked>
+      <name>testlabname</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Access_To_System</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>08589bc7-3626-4cb2-9908-ca1c753fe5bc</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2b33dc6c-cedb-45ad-b7de-0a0da9dad846</id>
+      <masked>false</masked>
+      <name>testid</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1f40c753-dee9-4c35-805e-45e53ab053d9</id>
+      <masked>false</masked>
+      <name>teststatus</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f0a92c78-edf0-4701-8245-7c2afbdd7393</id>
+      <masked>false</masked>
+      <name>testlabname</name>
+   </variable>
+</TestCaseEntity>

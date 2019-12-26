@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_To_Crosswired</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>499d9373-18c6-4d75-8869-7f9a61837b0c</testCaseGuid>
+   <variable>
+      <defaultValue>'mu3ccm7g7yeg24r6otffklaqjcvzs6go'</defaultValue>
+      <description></description>
+      <id>ac9ff05c-0c9b-4fa8-b362-e8b969d3b58a</id>
+      <masked>false</masked>
+      <name>testid</name>
+   </variable>
+   <variable>
+      <defaultValue>'passed'</defaultValue>
+      <description></description>
+      <id>3d887934-7f5a-4cfd-bdac-9a9b6be4af0b</id>
+      <masked>false</masked>
+      <name>teststatuspass</name>
+   </variable>
+   <variable>
+      <defaultValue>'failed'</defaultValue>
+      <description></description>
+      <id>fb89d4a9-8594-4731-9c20-a96513aef0c3</id>
+      <masked>false</masked>
+      <name>teststatusfail</name>
+   </variable>
+   <variable>
+      <defaultValue>'vireak'</defaultValue>
+      <description></description>
+      <id>58a1aaed-9b27-4fa4-b4b3-a03fee60a273</id>
+      <masked>false</masked>
+      <name>testlabname</name>
+   </variable>
+</TestCaseEntity>

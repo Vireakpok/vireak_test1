@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Click_Signin_To_UsernamePwd</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>27bc4478-5ac5-408b-822c-e8b4ae6336cd</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>34193d16-418a-4bb5-89ac-51aba2db210d</id>
+      <masked>false</masked>
+      <name>testid</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>27ab715c-a5fa-47a7-8c8e-62e0654ee36f</id>
+      <masked>false</masked>
+      <name>teststatus</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f4d995f1-545f-49e9-9fd0-f8a1f5f139de</id>
+      <masked>false</masked>
+      <name>testlabname</name>
+   </variable>
+</TestCaseEntity>

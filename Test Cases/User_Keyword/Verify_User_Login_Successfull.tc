@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_User_Login_Successfull</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2e90125-07eb-4b4f-9623-b1ff63491851</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>38cf06d5-4378-4405-bb04-acb936f7e1d0</id>
+      <masked>false</masked>
+      <name>testid</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1f49b14b-898e-4496-bd1f-a49760c1f4ab</id>
+      <masked>false</masked>
+      <name>teststatus</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e974029d-fdaf-462b-9cc7-a6c8b281ea4d</id>
+      <masked>false</masked>
+      <name>testlabname</name>
+   </variable>
+</TestCaseEntity>

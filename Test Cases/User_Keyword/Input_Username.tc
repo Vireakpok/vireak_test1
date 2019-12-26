@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input_Username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>60ae2232-562a-4f29-a522-97507dfe9bd8</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>495c743d-9c8c-4852-9f98-c5a13dbf04e5</id>
+      <masked>false</masked>
+      <name>testid</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4ba97d65-8759-45c8-8987-66342d7a7fa9</id>
+      <masked>false</masked>
+      <name>teststatus</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cb8a5aaf-dddf-45f2-a9bb-9e9295d75dfb</id>
+      <masked>false</masked>
+      <name>testlabname</name>
+   </variable>
+</TestCaseEntity>

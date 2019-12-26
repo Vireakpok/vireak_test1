@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_User_Could_Able_To_Get_Message_You _should_receive_an_email_shortly_with_further_instructions</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b55e88fc-40b2-4ec3-bf54-27f34ec4cc1e</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e536a09b-9881-465d-8f11-abfdd78539c1</id>
+      <masked>false</masked>
+      <name>testid</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1491d365-1719-4a2a-bfd6-c2b82978dad8</id>
+      <masked>false</masked>
+      <name>teststatus</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cdcef110-9eeb-4ae7-913f-bec9f23be734</id>
+      <masked>false</masked>
+      <name>testlabname</name>
+   </variable>
+</TestCaseEntity>
