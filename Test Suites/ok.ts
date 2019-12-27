@@ -40,34 +40,4 @@
          <variableId>abcffe45-f4d0-4c3c-92a6-a7b0a02086c1</variableId>
       </variableLink>
    </testCaseLink>
-   <testCaseLink>
-      <guid>5ec2f895-89fa-4159-bcdc-21c282cb5b54</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/TestCase/Login_To_Crosswired</testCaseId>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>ac9ff05c-0c9b-4fa8-b362-e8b969d3b58a</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>3d887934-7f5a-4cfd-bdac-9a9b6be4af0b</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>fb89d4a9-8594-4731-9c20-a96513aef0c3</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>58a1aaed-9b27-4fa4-b4b3-a03fee60a273</variableId>
-      </variableLink>
-   </testCaseLink>
 </TestSuiteEntity>
