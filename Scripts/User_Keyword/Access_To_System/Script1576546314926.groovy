@@ -17,8 +17,6 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.openBrowser('https://uat-connect.crosswired.com')
 
-WebUI.delay(10)
-
 WebUI.navigateToUrl('https://uat-connect.crosswired.com')
 
 WebUI.callTestCase(findTestCase('User_Keyword/Click_Ok_Button'), [('testid') : testid, ('teststatus') : teststatus, ('testlabname') : testlabname], 

@@ -15,7 +15,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 
-WebUI.callTestCase(findTestCase('User_Keyword/Access_To_System'), [('testid') : testid, ('teststatus') : teststatusfail, ('testlabname') : teststatusfail], 
+WebUI.callTestCase(findTestCase('User_Keyword/Access_To_System'), [('testid') : testid, ('teststatus') : teststatusfail, ('testlabname') : testlabname], 
     FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('User_Keyword/Input_Username'), [('testid') : testid, ('teststatus') : teststatusfail, ('testlabname') : testlabname], 
