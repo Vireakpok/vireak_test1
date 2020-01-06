@@ -11,7 +11,7 @@
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <testSuiteGuid>78968bfb-b11a-4b07-8585-f10a91d3c5a1</testSuiteGuid>
    <testCaseLink>
-      <guid>04934fd7-03f8-46e4-baf4-a6639b9d0e7d</guid>
+      <guid>45c903c3-9e39-48fe-9c6b-0656993eb094</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TestCase/Forget_Password</testCaseId>
@@ -38,6 +38,36 @@
          <type>DEFAULT</type>
          <value></value>
          <variableId>abcffe45-f4d0-4c3c-92a6-a7b0a02086c1</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>38a853df-6d47-48b1-96ed-7b4a46664fba</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TestCase/Login_To_Crosswired</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ac9ff05c-0c9b-4fa8-b362-e8b969d3b58a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>3d887934-7f5a-4cfd-bdac-9a9b6be4af0b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>fb89d4a9-8594-4731-9c20-a96513aef0c3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>58a1aaed-9b27-4fa4-b4b3-a03fee60a273</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>
